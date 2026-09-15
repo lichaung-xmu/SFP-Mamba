@@ -1,6 +1,9 @@
 # SFP-Mamba
 
-Official implementation of **SFP-Mamba: Semantic-Frequency Propagation and Region-Level Repair for Salient Object Detection in Optical Remote Sensing Images**.
+Official implementation of **SFP-Mamba: Propagation-Controlled Semantic-Frequency Perception for Reliable Remote-Sensing Salient Object Detection**.
+
+
+
 
 SFP-Mamba is designed for salient object detection (SOD) in optical remote sensing images. The framework progressively introduces spatially aligned frequency modeling, semantic-conditioned frequency propagation, and region-level residual repair to improve structural representation and foreground-background discrimination.
 
